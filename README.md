@@ -1,6 +1,6 @@
 # Documentation for Raymond MacNeil's Portfolio
 
-## Tech stack
+## Tech Stack
 - [hugo](https://gohugo.io/)
 
 ## Original Theme

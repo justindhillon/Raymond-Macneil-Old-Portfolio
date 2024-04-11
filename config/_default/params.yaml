@@ -14,8 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'Explore the academic journey and research endeavors of Raymond MacNeil, a dedicated PhD student in Psychology at the University of British Columbia. Discover his expertise in cognitive psychology, social psychology, and neuropsychology, with a focus on the intersection of technology and human behavior. Dive into his projects, publications, and achievements, and connect to explore collaboration opportunities.'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -30,13 +29,13 @@ marketing:
 header:
   navbar:
     enable: true
-    show_search: true
+    show_search: false
     show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Raymond MacNeil. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -55,6 +54,5 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/HugoBlox/hugo-blox-builder/'
-    content_dir: starters/blog/content
+    url: 'https://github.com/justindhillon/Raymond-Macneil-Portfolio'
     branch: main

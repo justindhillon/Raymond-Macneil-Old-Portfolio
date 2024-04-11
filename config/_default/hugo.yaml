@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: "Creator's Blog (Hugo Theme)" # Website name
-baseURL: 'https://example.com/' # Website URL
+title: "Raymond Macneil | PhD Student at The University of British Columbia" # Website name
+baseURL: 'https://justindhillon.github.io/Raymond-Macneil-Portfolio/' # Website URL
 
 ############################
 ## PAGE OPTIONS

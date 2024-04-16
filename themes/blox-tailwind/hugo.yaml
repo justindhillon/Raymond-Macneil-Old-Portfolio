@@ -40,8 +40,6 @@ module:
   hugoVersion:
     min: '0.122.0'
     extended: true
-  imports:
-    - path: blox-analytics
   mounts:
     - source: content
       target: content

@@ -123,9 +123,6 @@
     });
   </script>
 
-  {{/* Analytics & Verification */}}
-  {{ partial "blox-analytics/index" . }}
-
   {{/* RSS Feed */}}
   {{ with .OutputFormats.Get "RSS" }}
     <link rel="alternate" href="{{ .RelPermalink }}" type="application/rss+xml" title="{{ site.Title }}" />
